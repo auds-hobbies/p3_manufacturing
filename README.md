@@ -15,8 +15,8 @@
   </style>
   <body>
     <div class="container">
-      <div class="image"> <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" alt="This is my image." height="50px"/> </div> 
-      <div class="image"> <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" alt="This is my second image." height="50px"/> </div> 
+      <div class="image"> <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization.png" alt="This is my image." height="50px"/> </div> 
+      <div class="image"> <img src="https://github.com/auds-hobbies/dashboard_crime_geo_visualization.png" alt="This is my second image." height="50px"/> </div> 
      <div class="image"> <img src="https://i.pinimg.com/736x/27/41/08/274108a5f7134d48d8829c98255f0b76.jpg" alt="My third image." height="50px"/> </div> 
     </div>
 
