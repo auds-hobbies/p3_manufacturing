@@ -1,5 +1,3 @@
-# p3_manufacturing
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -10,8 +8,25 @@
   display: grid;
   grid-template-columns:20% 20% 20%;
   align-items: center;
-
 }
+     nav {
+                background-color: #333;
+                overflow: hidden;
+            }
+    
+            nav a {
+                float: left;
+                display: block;
+                color: white;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+            }
+    
+            nav a:hover {
+                background-color: #ddd;
+                color: black;
+            }
   </style>
   <body>
     
