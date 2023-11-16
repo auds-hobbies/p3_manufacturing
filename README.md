@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Pretty</title>
+    <title>Lean Process Improvement </title>
   </head>
   <style>
   .container {
