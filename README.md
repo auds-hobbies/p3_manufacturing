@@ -20,14 +20,14 @@
    <h3> Crime Analysis - Power BI Dashboard </h3>
     <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. </p>
     <p>
-        <a href="https://github.com/auds-hobbies/dashboard_crime_geo_visualization" target="_blank"> GitHub</a>,
+        <a href="https://github.com/auds-hobbies/p3_manufacturing" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
         <a href="https://www.youtube.com" target="_blank"> YouTube</a>
     </p>
     <div style="width: 350 px; float: left; height: 350 px;">
         <!-- Content for the brown div goes here -->
-         <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_power_bi_dashboard.png?raw=true"  width = "350"  />
-        <img src="https://github.com/auds-hobbies/p1_heart_risk_predictor/blob/main/github_heart_risk_excel_dashboard_v2.png?raw=true"  width = "350"  />
+         <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png?raw=true"  width = "350"  />
+        <img src="https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png?raw=true"  width = "350"  />
     </div> 
 </section> 
 
