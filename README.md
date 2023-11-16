@@ -52,14 +52,7 @@ TBA
 ### Video 
 Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and web app:
 
-[![Watch the video](https://github.com/auds-hobbies/p2_real_estate/blob/main/Screenshot%20power%20bi%20dashboard%20real%20estate2.png)](https://youtu.be/pFVV-cahsBc) 
+[![Watch the video](https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png)](https://youtu.be/pFVV-cahsBc) 
 
-
-
-
-
-
-
-    
-  </body>
+</body>
 </html> 
