@@ -65,7 +65,7 @@ TBA
 
 
 ### Video 
-Click on the picture below to view a video of the Excel Dashboard, Power BI Dashboard, and web app:
+Click on the picture below to view a video of the dashboard - to be completed:
 
 [![Watch the video](https://github.com/auds-hobbies/p3_manufacturing/blob/main/Screenshot%20manufacturing1.png)](https://youtu.be/pFVV-cahsBc) 
 
