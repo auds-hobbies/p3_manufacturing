@@ -37,8 +37,8 @@ To be completed
 
 <br>
 <section> 
-   <h3> Crime Analysis - Power BI Dashboard </h3>
-    <p> Analysis on vitals taken from admitted patients in order to determine the risks categories of admitted patients. </p>
+   <h3> Manufacturing Process Analysis - Power BI Dashboard </h3>
+    <p> Analysis on manufacturing process. </p>
     <p>
         <a href="https://github.com/auds-hobbies/p3_manufacturing" target="_blank"> GitHub</a>,
         <a href="https://www.youtube.com" target="_blank"> Twitter</a>,
